@@ -1,6 +1,10 @@
 $(document).ready(function() {
 	converter = new Showdown.converter();
-	text = converter.makeHtml($('#markdown').text());
-	$('<div id="markdowned">' + text + '</div>').insertAfter($('#markdown'));
-	$('#markdown').hide();
+
+	$('textarea').each(function(index){
+		text = converter.makeHtml($(this).text());
+		$('<div id="markdowned' + index + '">' + text + '</div>').insertAfter($(this));
+		$(this).hide();
+	});
+
 });
