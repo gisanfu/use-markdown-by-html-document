@@ -17,3 +17,5 @@ http://attacklab.net/showdown/
 	<textarea class="need_markdown">
 	## test1
 	</textarea>
+
+然後如果有另一個區塊也要這樣子做，就在複製同樣的做法就可以了。
