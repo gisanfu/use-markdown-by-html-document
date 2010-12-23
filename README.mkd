@@ -9,3 +9,11 @@ author: gisanfu
 ## 相依性
 
 http://attacklab.net/showdown/
+
+## 使用方式
+
+使用textarea把markdown的語法包進去
+
+	<textarea class="need_markdown">
+	## test1
+	</textarea>
