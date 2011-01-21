@@ -20,6 +20,12 @@ author: gisanfu
 
 然後如果有另一個區塊也要這樣子做，就在複製同樣的做法就可以了。
 
+## Style
+
+關於`style.css`這支檔案，主要是放markdown後所產生的Tag，它的Style，
+
+例如`pre`、`code`這兩個Tag
+
 ## 其它參考網址
 
 Markdown parser for javascript
