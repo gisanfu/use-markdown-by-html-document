@@ -45,3 +45,15 @@ Markdown parser for javascript
 裡面也有一些說明
 
 <http://greg.vario.us/doc/markdown.txt>
+
+## 來看一下jQuery的CDN
+
+<http://plog.longwin.com.tw/news-google-yahoo/2008/11/21/google-cdn-host-ajax-library-jquery-2008>
+
+例如可以指向以下的網址，現在最新release的版本
+
+<http://code.jquery.com/jquery.min.js>
+
+或者是
+
+<http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js>
