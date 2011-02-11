@@ -26,6 +26,12 @@ author: gisanfu
 
 例如`pre`、`code`這兩個Tag
 
+## 可否轉成文件
+
+可以參考這個網址
+
+<http://johnmacfarlane.net/pandoc/>
+
 ## 其它參考網址
 
 Markdown parser for javascript
