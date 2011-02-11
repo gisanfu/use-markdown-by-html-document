@@ -35,3 +35,7 @@ Markdown parser for javascript
 另一個說明語法的網頁
 
 <http://163.21.11.43/moodle/help.php?file=markdown.html>
+
+裡面也有一些說明
+
+<http://greg.vario.us/doc/markdown.txt>
